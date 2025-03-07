@@ -20,17 +20,24 @@
     <div align="center">
     <h2 style="border-bottom: 1px solid #A9B5DF; color: #A9B5DF;"> 🛠️ Tech Stacks </h2>
     <br>
-    <div style="margin: 0 auto; text-align: center;">
+   <div style="margin: 0 auto; text-align: center;">
+        <!-- 프로그래밍 언어 -->
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+        <br>
+        <!-- 프레임워크 -->
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white">
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+        <br>
+        <!-- 스타일링 및 라이브러리 -->
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
         <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+        <br>
+        <!-- 빌드 및 상태 관리 도구 -->
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
         <img src="https://img.shields.io/badge/Pinia-F59E0B?style=flat&logo=pinia&logoColor=white">
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white">
         <img src="https://img.shields.io/badge/Recharts-0088CC?style=flat&logo=recharts&logoColor=white">
