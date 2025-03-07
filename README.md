@@ -4,7 +4,7 @@
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #A9B5DF; color: #A9B5DF;"> Profile </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #7886C7;">
+    <div style="font-weight: 700; font-size: 20px; text-align: center; color: #7886C7;">
         • Seoul Women's University Business Administration Major (20.03 ~ 24.02) <br>
         • Showa Women's University Exchange Student (23.03 ~ 23.08) <br>
         • Etners Welfare Benefits Intern (23.09 ~ 23.12)
