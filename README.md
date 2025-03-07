@@ -38,9 +38,7 @@
         <br>
         <!-- 빌드 및 상태 관리 도구 -->
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
-        <img src="https://img.shields.io/badge/Pinia-F59E0B?style=flat&logo=pinia&logoColor=white">
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white">
-        <img src="https://img.shields.io/badge/Recharts-0088CC?style=flat&logo=recharts&logoColor=white">
     </div>
 </div>
 
