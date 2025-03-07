@@ -60,9 +60,11 @@
     <div style="margin: 0 auto; text-align: center;">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=vimeo&logoColor=white">
+        <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
         <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira-software&logoColor=white">
+        
     </div>
 </div>
 
