@@ -5,11 +5,11 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #A9B5DF; color: #A9B5DF;"> Profile </h2>
     <div style="font-weight: 700; font-size: 20px; text-align: center; color: #7886C7;">
+        • Samsung Software Academy For Youth [Python Major Track] (24.07 ~ 25.06)<br>
         • Seoul Women's University Business Administration Major (20.03 ~ 24.02) <br>
         • Showa Women's University Exchange Student (23.03 ~ 23.08) <br>
-        • Etners Welfare Benefits Intern (23.09 ~ 23.12)
+        • Etners Welfare Benefits Intern (23.09 ~ 23.12)<br>
         <br>
-        • Samsung Software Academy For Youth [Python Major Track] (24.07 ~ 25.06)<br><br>
         • Opic IM3 Certified <br>
         • Toeic 800+ Certified <br>
         • JLPT N2 Certified <br>
