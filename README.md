@@ -25,6 +25,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white">    
         <br>
         <!-- 프레임워크 -->
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
