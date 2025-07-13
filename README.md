@@ -24,17 +24,21 @@
         <!-- 프로그래밍 언어 -->
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
         <br>
         <!-- 프레임워크 -->
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white">
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
         <br>
         <!-- 스타일링 및 라이브러리 -->
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=react-query&logoColor=white">
         <br>
         <!-- 빌드 및 상태 관리 도구 -->
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
@@ -49,8 +53,9 @@
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/AI-FCC624?style=flat&logo=openai&logoColor=black">
-        <img src="https://img.shields.io/badge/Hugging%20Face-F99E00?style=flat&logo=huggingface&logoColor=black">
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Database-4479A1?style=flat&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white">
     </div>
 </div>
 
@@ -67,8 +72,6 @@
     </div>
 </div>
 
-</div>
-
 <div align="center">
     <h2 style="border-bottom: 1px solid #A9B5DF; color: #A9B5DF;"> 🧑‍💻 Contact me </h2>
     <br>
@@ -82,4 +85,3 @@
     </div>
     <br>
 </div>
-
