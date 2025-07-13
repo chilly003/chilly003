@@ -13,7 +13,6 @@
         • Opic IM3 Certified <br>
         • Toeic 800+ Certified <br>
         • JLPT N2 Certified <br>
-        
     </div>
 </div>
 
