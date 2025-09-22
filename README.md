@@ -10,6 +10,7 @@
         • Showa Women's University Exchange Student (23.03 ~ 23.08) <br>
         • Etners Welfare Benefits Intern (23.09 ~ 23.12)<br>
         <br>
+        • SQLD Certified <br>
         • Opic(EN) IH Certified <br>
         • Toeic 800+ Certified <br>
         • JLPT N2 Certified <br>
