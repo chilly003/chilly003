@@ -54,8 +54,6 @@
     <div style="margin: 0 auto; text-align: center;">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/AI-FCC624?style=flat&logo=openai&logoColor=black">
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white">
         <img src="https://img.shields.io/badge/Database-4479A1?style=flat&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white">
     </div>
