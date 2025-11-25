@@ -30,6 +30,7 @@
         <br>
         <!-- 프레임워크 -->
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white">
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
