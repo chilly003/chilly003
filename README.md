@@ -7,8 +7,8 @@
     <div style="font-weight: 700; font-size: 20px; text-align: center; color: #7886C7;">
         • Samsung Software Academy For Youth [Python Major Track] (24.07 ~ 25.06)<br>
         • Seoul Women's University Business Administration Major (20.03 ~ 24.02) <br>
-        • Showa Women's University Exchange Student (23.03 ~ 23.08) <br>
         • Etners Welfare Benefits Intern (23.09 ~ 23.12)<br>
+        • Showa Women's University Exchange Student (23.03 ~ 23.08) <br>
         <br>
         • SQLD Certified <br>
         • Opic(EN) IH Certified <br>
